@@ -12,7 +12,7 @@ An **Android Studio** application for managing pizza orders. This app allows use
 - **✅ Place Orders**: Confirm and finalize orders for processing.  
 - **❌ Delete Orders**: Remove unwanted orders before placing them.
 
-  ![Pizzeria_Image]([https://example.com/path/to/your/image.png](https://i.imgur.com/tevkn8A.png))  
+  ![Pizzeria_Image](https://i.imgur.com/tevkn8A.png)  
 
 ---
 
