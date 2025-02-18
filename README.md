@@ -10,7 +10,9 @@ An **Android Studio** application for managing pizza orders. This app allows use
 - **🛠️ Customize Pizza**: Choose from a variety of toppings, crust types, and sizes.  
 - **📋 View Orders**: Keep track of all current orders, including details on pizza selection and pricing.  
 - **✅ Place Orders**: Confirm and finalize orders for processing.  
-- **❌ Delete Orders**: Remove unwanted orders before placing them.  
+- **❌ Delete Orders**: Remove unwanted orders before placing them.
+
+  ![Pizzeria_Image]([https://example.com/path/to/your/image.png](https://i.imgur.com/tevkn8A.png))  
 
 ---
 
